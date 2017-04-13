@@ -5,12 +5,12 @@ npm install electron -g
 npm install
 ```
 
-## build & start(Electron)
+## build & start(browser)
 ```sh
 npm start
 ```
 
-## build & start(browser)
+## build & start(Electron)
 ```sh
-npm run br
+npm run electron
 ```
